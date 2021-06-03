@@ -1,0 +1,49 @@
+Treatment,Description,Block,Code ,Senescence_7-1-20,Senescence_7-8-20,Senescence_7-15-20,Senescence_7-29-20,Senescence_8-12-20,Senescence_8-18-20
+1,CHK,1,111-1,0,0,0,0,15,20
+2,Warrior 1.92 FL OZ/A;Manzate 1.6 QT/A;NIS .25 % V/V,1,102-2,0,0,0,2,6,15
+3,Warrior 1.92 FL OZ/A;NIS .25 % V/V,1,110-3,0,0,0,0,25,55
+4,Manzate 1.6 QT/A;NIS .25 % V/V,1,109-4,0,0,0,0,10,15
+5,Beleaf 2.8 FL OZ/A;Luna Tranquility 16 FL OZ/A;NIS .25 % V/V,1,104-5,0,0,0,5,5,5
+6,Beleaf 2.8 FL OZ/A;NIS .25 % V/V,1,107-6,0,0,0,2,5,30
+7,Luna Tranquility 16 FL OZ/A;NIS .25 % V/V,1,108-7,0,0,0,5,5,10
+8,Beleaf 2.8 FL OZ/A;Bravo WS .75 PT/A;Bravo WS 1.5 PT/A;NIS .25 % V/V,1,105-8,0,0,0,2,5,30
+9,Bravo WS .75 PT/A;Bravo WS 1.5 PT/A;NIS .25 % V/V,1,101-9,0,0,0,2,4,5
+10,Warrior 1.92 FL OZ/A;Bravo WS .75 PT/A;Bravo WS 1.5 PT/A;NIS 0.25 % V/V,1,112-10,0,0,0,0,0,10
+11,Beleaf 2.8 FL OZ/A;Manzate 1.6 QT/A;NIS .25 % V/V,1,103-11,0,0,0,2,8,15
+12,Warrior 1.92 FL OZ/A;Luna Tranquility 16 FL OZ/A;NIS .25 % V/V,1,106-12,0,0,0,2,2,15
+1,CHK,2,201-1,0,0,0,2,2,10
+2,Warrior 1.92 FL OZ/A;Manzate 1.6 QT/A;NIS .25 % V/V,2,208-2,0,0,0,5,5,20
+3,Warrior 1.92 FL OZ/A;NIS .25 % V/V,2,212-3,0,0,0,15,15,70
+4,Manzate 1.6 QT/A;NIS .25 % V/V,2,206-4,0,0,0,2,4,20
+5,Beleaf 2.8 FL OZ/A;Luna Tranquility 16 FL OZ/A;NIS .25 % V/V,2,209-5,0,0,0,2,2,5
+6,Beleaf 2.8 FL OZ/A;NIS .25 % V/V,2,205-6,0,0,0,5,10,45
+7,Luna Tranquility 16 FL OZ/A;NIS .25 % V/V,2,202-7,0,0,0,2,2,5
+8,Beleaf 2.8 FL OZ/A;Bravo WS .75 PT/A;Bravo WS 1.5 PT/A;NIS .25 % V/V,2,203-8,0,0,0,0,0,10
+9,Bravo WS .75 PT/A;Bravo WS 1.5 PT/A;NIS .25 % V/V,2,211-9,0,0,0,10,15,45
+10,Warrior 1.92 FL OZ/A;Bravo WS .75 PT/A;Bravo WS 1.5 PT/A;NIS 0.25 % V/V,2,210-10,0,0,0,5,6,50
+11,Beleaf 2.8 FL OZ/A;Manzate 1.6 QT/A;NIS .25 % V/V,2,204-11,0,0,0,2,4,15
+12,Warrior 1.92 FL OZ/A;Luna Tranquility 16 FL OZ/A;NIS .25 % V/V,2,207-12,0,0,0,5,5,10
+1,CHK,3,304-1,0,0,0,2,4,30
+2,Warrior 1.92 FL OZ/A;Manzate 1.6 QT/A;NIS .25 % V/V,3,303-2,0,0,0,2,8,35
+3,Warrior 1.92 FL OZ/A;NIS .25 % V/V,3,301-3,0,0,0,2,2,10
+4,Manzate 1.6 QT/A;NIS .25 % V/V,3,305-4,0,0,0,6,6,25
+5,Beleaf 2.8 FL OZ/A;Luna Tranquility 16 FL OZ/A;NIS .25 % V/V,3,307-5,0,0,0,4,6,10
+6,Beleaf 2.8 FL OZ/A;NIS .25 % V/V,3,308-6,0,0,0,10,15,30
+7,Luna Tranquility 16 FL OZ/A;NIS .25 % V/V,3,306-7,0,0,0,0,0,5
+8,Beleaf 2.8 FL OZ/A;Bravo WS .75 PT/A;Bravo WS 1.5 PT/A;NIS .25 % V/V,3,309-8,0,0,0,15,15,30
+9,Bravo WS .75 PT/A;Bravo WS 1.5 PT/A;NIS .25 % V/V,3,312-9,0,0,0,20,20,30
+10,Warrior 1.92 FL OZ/A;Bravo WS .75 PT/A;Bravo WS 1.5 PT/A;NIS 0.25 % V/V,3,311-10,0,0,0,5,10,20
+11,Beleaf 2.8 FL OZ/A;Manzate 1.6 QT/A;NIS .25 % V/V,3,302-11,0,0,0,2,2,25
+12,Warrior 1.92 FL OZ/A;Luna Tranquility 16 FL OZ/A;NIS .25 % V/V,3,310-12,0,0,0,2,2,10
+1,CHK,4,401-1,0,0,0,2,4,30
+2,Warrior 1.92 FL OZ/A;Manzate 1.6 QT/A;NIS .25 % V/V,4,404-2,0,0,0,4,6,30
+3,Warrior 1.92 FL OZ/A;NIS .25 % V/V,4,412-3,0,0,0,5,8,40
+4,Manzate 1.6 QT/A;NIS .25 % V/V,4,406-4,0,0,0,2,2,35
+5,Beleaf 2.8 FL OZ/A;Luna Tranquility 16 FL OZ/A;NIS .25 % V/V,4,410-5,0,0,0,5,5,10
+6,Beleaf 2.8 FL OZ/A;NIS .25 % V/V,4,405-6,0,0,0,10,10,30
+7,Luna Tranquility 16 FL OZ/A;NIS .25 % V/V,4,408-7,0,0,0,6,6,6
+8,Beleaf 2.8 FL OZ/A;Bravo WS .75 PT/A;Bravo WS 1.5 PT/A;NIS .25 % V/V,4,403-8,0,0,0,6,10,10
+9,Bravo WS .75 PT/A;Bravo WS 1.5 PT/A;NIS .25 % V/V,4,407-9,0,0,0,5,5,25
+10,Warrior 1.92 FL OZ/A;Bravo WS .75 PT/A;Bravo WS 1.5 PT/A;NIS 0.25 % V/V,4,402-10,0,0,0,2,2,20
+11,Beleaf 2.8 FL OZ/A;Manzate 1.6 QT/A;NIS .25 % V/V,4,409-11,0,0,0,4,4,20
+12,Warrior 1.92 FL OZ/A;Luna Tranquility 16 FL OZ/A;NIS .25 % V/V,4,411-12,0,0,0,5,5,20
