@@ -1,0 +1,65 @@
+Treatment,Description,Block,Code,Senescence_06-15-21,Senescence_06-24-21,Senescence_07-09-21,Senescence_07-20-21,Senescence_07-27-21,Senescence_08-10-21,Senescence_08-20-21
+1,Control,1,104,0,0,0,1,5,25,60
+2,Fulfill;Manzate;NIS,1,111,0,0,0,10,20,50,70
+3,Fulfill;NIS,1,105,0,0,0,0,2,30,50
+4,Manzate;NIS,1,110,0,0,0,1,5,25,30
+5,Beleaf;Luna Tranquility;NIS,1,116,0,0,0,15,10,25,40
+6,Beleaf;NIS,1,112,0,0,0,0,10,45,40
+7,Luna Tranquility;NIS,1,108,0,0,0,2,5,40,30
+8,Beleaf;Bravo,1,113,0,0,0,1,10,45,45
+9,Bravo WS;NIS,1,109,0,0,0,1,10,40,30
+10,Fulfill;Bravo WS;NIS,1,101,0,0,0,5,10,35,50
+11,Beleaf;Manzate;NIS,1,103,0,0,0,0,5,20,45
+12,Fulfill;Luna Tranquility;NIS,1,114,0,0,0,2,10,30,20
+13,Transform;NIS,1,106,0,0,0,10,10,50,45
+14,Transform;Bravo WS;NIS,1,115,0,0,0,2,10,35,50
+15,Transform;Luna Tranquility;NIS,1,107,0,0,0,1,5,30,20
+16,Transform;Manzate;NIS,1,102,0,0,0,2,5,15,35
+1,Control,2,209,0,0,0,1,10,50,50
+2,Fulfill;Manzate;NIS,2,208,0,0,0,5,15,50,45
+3,Fulfill;NIS,2,214,0,0,0,0,15,55,55
+4,Manzate;NIS,2,203,0,0,0,5,10,50,40
+5,Beleaf;Luna Tranquility;NIS,2,202,0,0,0,5,10,35,40
+6,Beleaf;NIS,2,210,0,0,0,5,20,40,60
+7,Luna Tranquility;NIS,2,212,0,0,0,3,15,45,30
+8,Beleaf;Bravo,2,204,0,0,0,0,10,35,50
+9,Bravo WS;NIS,2,201,0,0,0,5,10,50,60
+10,Fulfill;Bravo WS;NIS,2,205,0,0,0,10,10,45,60
+11,Beleaf;Manzate;NIS,2,213,0,0,0,2,20,50,35
+12,Fulfill;Luna Tranquility;NIS,2,206,0,0,0,5,10,25,35
+13,Transform;NIS,2,207,0,0,0,2,10,55,45
+14,Transform;Bravo WS;NIS,2,211,0,0,0,20,5,35,50
+15,Transform;Luna Tranquility;NIS,2,215,0,0,0,10,15,25,25
+16,Transform;Manzate;NIS,2,216,0,0,0,15,10,35,40
+1,Control,3,301,0,0,0,10,25,40,60
+2,Fulfill;Manzate;NIS,3,310,0,0,0,3,10,35,35
+3,Fulfill;NIS,3,308,0,0,0,5,10,35,55
+4,Manzate;NIS,3,305,0,0,0,5,15,50,50
+5,Beleaf;Luna Tranquility;NIS,3,309,0,0,0,20,10,15,15
+6,Beleaf;NIS,3,306,0,0,0,10,20,50,55
+7,Luna Tranquility;NIS,3,302,0,0,0,2,15,40,35
+8,Beleaf;Bravo,3,314,0,0,0,10,2,15,30
+9,Bravo WS;NIS,3,315,0,0,0,1,2,25,35
+10,Fulfill;Bravo WS;NIS,3,304,0,0,0,5,15,30,50
+11,Beleaf;Manzate;NIS,3,312,0,0,0,2,5,35,35
+12,Fulfill;Luna Tranquility;NIS,3,307,0,0,0,10,10,35,20
+13,Transform;NIS,3,303,0,0,0,5,10,50,50
+14,Transform;Bravo WS;NIS,3,316,0,0,0,10,10,45,30
+15,Transform;Luna Tranquility;NIS,3,311,0,0,0,0,10,30,25
+16,Transform;Manzate;NIS,3,313,0,0,0,3,10,20,30
+1,Control,4,413,0,0,0,0,5,40,50
+2,Fulfill;Manzate;NIS,4,401,0,0,0,1,10,50,45
+3,Fulfill;NIS,4,404,0,0,0,15,10,45,40
+4,Manzate;NIS,4,403,0,0,0,2,2,20,40
+5,Beleaf;Luna Tranquility;NIS,4,414,0,0,0,20,15,25,15
+6,Beleaf;NIS,4,411,0,0,0,0,5,50,50
+7,Luna Tranquility;NIS,4,409,0,0,0,5,10,15,20
+8,Beleaf;Bravo,4,405,0,0,0,5,10,50,45
+9,Bravo WS;NIS,4,406,0,0,0,15,15,55,40
+10,Fulfill;Bravo WS;NIS,4,410,0,0,0,5,5,40,45
+11,Beleaf;Manzate;NIS,4,407,0,0,0,10,10,25,30
+12,Fulfill;Luna Tranquility;NIS,4,416,0,0,0,10,10,35,25
+13,Transform;NIS,4,402,0,0,0,2,5,50,50
+14,Transform;Bravo WS;NIS,4,415,0,0,0,10,10,40,30
+15,Transform;Luna Tranquility;NIS,4,412,0,0,0,0,5,20,25
+16,Transform;Manzate;NIS,4,408,0,0,0,3,3,20,45
